@@ -2,7 +2,7 @@
 layout: basic
 title: Example - Bogor COVID Case Reporting Form
 date: 2021-02-09
-waNumber: 621234567899
+waNumber: 6285890710139
 mode: log
 form:
   - type: textfield
@@ -46,7 +46,7 @@ form:
     label: Remarks
     id: remarks
     required: false
-    placeholder: Patient is ...
+    placeholder: Nothing
 ---
 
 > This form is for demo purpose only.
