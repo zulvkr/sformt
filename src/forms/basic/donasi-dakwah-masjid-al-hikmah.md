@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: Donasi Dakwah Masjid Al-Hikmah
+title: Program Bahasa
 date: 2021-02-25T15:02:28.498Z
 waNumber: 6278907687533
 form:
@@ -36,4 +36,4 @@ form:
       - "4"
       - "5"
 ---
-Muslim
+Isi form ini untuk mengikuti program pembelajaran.
